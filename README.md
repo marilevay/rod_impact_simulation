@@ -1,1 +1,1 @@
-# rod_impact_simulation
+# One Dimensional Rebound of a Rod
